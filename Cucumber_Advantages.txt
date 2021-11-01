@@ -1,0 +1,6 @@
+Cucumber Framework (BDD)
+Advantages
+1.Instead defining their own terminologies.All will be using common template which make things more clear. 
+2.we can tag these annotation to selenium webdriver 
+3.if something is failed the "When" will be red.No need of logs, no need of html reporting . 
+4.If all passed green background will come
